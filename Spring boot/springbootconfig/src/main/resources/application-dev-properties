@@ -1,0 +1,8 @@
+#DEV enviroment
+
+app.message=This is the property file to the ${spring.application.name}
+
+spring.datasource.driver-class-name=org.h2.Driver
+spring.datasource.url=jdbc:h2:mem:de;DB_CLOSE_DELAY=-1
+sring.datasource.username=sa
+spring.datasource.passworld=sa
